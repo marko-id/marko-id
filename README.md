@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Omar, a Student 🚀 from Indonesia.
+## Hi, I'm Omar, an IT Enthusiast 🚀 from Indonesia.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -19,9 +19,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently studying on Universitas Islam Negeri Syarif Hidayatullah Jakarta.
-- 🌱 I’m currently learning Laravel and NodeJS.
-- 🤔 I’m looking for help with Web Design.
+- 👨🏽‍💻 I’m Fresh Graduate from Universitas Islam Negeri Syarif Hidayatullah Jakarta Majoring Informatics Engineering.
+- 🌱 I’m currently learning DevOps.
+- 🖥️ I’m looking for help with IT Infrastructure & DevOps.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Fun-Fact: I love cats.
 - 📫 How to reach me: omaryazidz48@gmail.com
